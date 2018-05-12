@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31511'
     url: http://www.gutenberg.org/2009/agents/31511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25688#The-Transformation-of-JobA-Tale-of-the-High-Sierras
 gutenberg_issued: '2008-06-03'
 gutenberg_type: Text
 identifiers:
